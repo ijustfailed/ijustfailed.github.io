@@ -6247,7 +6247,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: white !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -10258,7 +10258,7 @@ body {
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding-top: 10rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
